@@ -381,8 +381,7 @@
 		"oAP": "\/menudesign-mockup-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
+		"oIPL": 1,
 		},
 	"\/peoplebay-01.jpg": {
 		"ft": 16384,
